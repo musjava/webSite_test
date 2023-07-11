@@ -1,8 +1,11 @@
 #myimg{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
 }
 body{
     margin-left: 20px;
+    color: rgb(223, 105, 105);
+    background-color: #f7d6d6;
+    
 }
